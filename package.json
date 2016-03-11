@@ -1,6 +1,6 @@
 {
   "name": "fmg2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "API to interact with FakeMailGenerator.com",
   "main": "./lib/fmg.js",
   "scripts": {

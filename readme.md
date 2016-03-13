@@ -4,14 +4,14 @@ This is a package that can be used to interact with [FakeMailGenerator][0]
 
 ### Installing
 
-Create your project and `npm install --save fmg` and you are ready to go.
+Create your project and `npm install --save fmg2` and you are ready to go.
 
 ### Using
 
-`fmg` provides two methods, `watch` and `fetchDomains`.
+`fmg2` provides two methods, `watch` and `fetchDomains`.
 
 ```javascript
-var fmg = require('fmg');
+var fmg = require('fmg2');
 fmg.watch('somefmgmail@rhyta.com').on('email', function(msg){
     console.log('We got e-mails!', msg);
 });
@@ -36,7 +36,7 @@ fmg.fetchDomains(function(err, domains){
 
 (The MIT License)
 
-Copyright (c) 2009-2013 Cranic Tecnologia e Informática LTDA <contato@cranic.com.br>
+Copyright (c) 2009-2013 Leonardo Gatica
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

@@ -1,6 +1,6 @@
 {
-  "name": "fmg",
-  "version": "0.0.1",
+  "name": "fmg2",
+  "version": "0.0.4",
   "description": "API to interact with FakeMailGenerator.com",
   "main": "./lib/fmg.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cranic/node-fmg"
+    "url": "https://github.com/lgaticaq/node-fmg"
   },
   "keywords": [
     "fake",
@@ -16,12 +16,12 @@
     "api",
     "FakeMailGenerator"
   ],
-  "author": "Cranic Tecnologia <contato@cranic.com.br>",
+  "author": "Leonardo Gatica <lgatica@protonmail.com> (https://about.me/lgatica)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cranic/node-fmg/issues"
+    "url": "https://github.com/lgaticaq/node-fmg/issues"
   },
-  "homepage": "https://github.com/cranic/node-fmg",
+  "homepage": "https://github.com/lgaticaq/node-fmg",
   "dependencies": {
     "cheerio": "^0.13.1",
     "request": "^2.34.0",

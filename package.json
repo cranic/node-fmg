@@ -25,7 +25,7 @@
   "dependencies": {
     "cheerio": "^0.21.0",
     "request": "^2.34.0",
-    "moment": "^2.5.1",
+    "moment": "^2.14.1",
     "async": "^1.5.2"
   },
   "devDependencies": {

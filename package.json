@@ -26,7 +26,7 @@
     "cheerio": "^0.21.0",
     "request": "^2.73.0",
     "moment": "^2.14.1",
-    "async": "^2.0.0"
+    "async": "^2.0.1"
   },
   "devDependencies": {
     "mocha": "^2.5.3",

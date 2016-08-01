@@ -29,7 +29,7 @@
     "async": "^2.0.1"
   },
   "devDependencies": {
-    "mocha": "^2.5.3",
+    "mocha": "^3.0.0",
     "yuidocjs": "^0.10.2"
   }
 }

@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/lgaticaq/node-fmg",
   "dependencies": {
-    "cheerio": "^0.21.0",
+    "cheerio": "^0.22.0",
     "request": "^2.74.0",
     "moment": "^2.14.1",
     "async": "^2.0.1"

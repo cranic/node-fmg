@@ -1,6 +1,6 @@
 {
-  "name": "fmg",
-  "version": "0.0.1",
+  "name": "fmg2",
+  "version": "0.0.4",
   "description": "API to interact with FakeMailGenerator.com",
   "main": "./lib/fmg.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cranic/node-fmg"
+    "url": "https://github.com/lgaticaq/node-fmg"
   },
   "keywords": [
     "fake",
@@ -16,20 +16,20 @@
     "api",
     "FakeMailGenerator"
   ],
-  "author": "Cranic Tecnologia <contato@cranic.com.br>",
+  "author": "Leonardo Gatica <lgatica@protonmail.com> (https://about.me/lgatica)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cranic/node-fmg/issues"
+    "url": "https://github.com/lgaticaq/node-fmg/issues"
   },
-  "homepage": "https://github.com/cranic/node-fmg",
+  "homepage": "https://github.com/lgaticaq/node-fmg",
   "dependencies": {
-    "cheerio": "^0.13.1",
-    "request": "^2.34.0",
-    "moment": "^2.5.1",
-    "async": "^0.2.10"
+    "cheerio": "^0.22.0",
+    "request": "^2.75.0",
+    "moment": "^2.15.1",
+    "async": "^2.0.1"
   },
   "devDependencies": {
-    "mocha": "^1.17.1",
-    "yuidocjs": "^0.3.48"
+    "mocha": "^3.1.2",
+    "yuidocjs": "^0.10.2"
   }
 }
